@@ -18,3 +18,30 @@
 .container{
     margin-bottom: 60px;
 }
+.cat1{
+    background-image: linear-gradient(45deg,orange,yellow);
+}
+.cat2{
+    background-image: linear-gradient(45deg,#f31970,#FF589B);
+}
+.cat3{
+    background-image: linear-gradient(45deg,blue,#a1a1f5);
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagories img{
+    width: 135px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightblue;
+}
+.card-footer{
+    background-color: #a1a1f5;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
